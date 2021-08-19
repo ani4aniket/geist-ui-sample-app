@@ -1,0 +1,10 @@
+.Tasks-Container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0px;
+}
+
+.Checked {
+    margin-top: 10px;
+}

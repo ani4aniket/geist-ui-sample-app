@@ -1,0 +1,27 @@
+body {
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
+
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 95vw;
+    max-width: 550px;
+    min-height: 100vh;
+}
+
+.Task-Container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 95vw;
+    max-width: 550px;
+    margin-top: 5px;
+}
+ 

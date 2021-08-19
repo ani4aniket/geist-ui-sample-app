@@ -1,0 +1,20 @@
+.Task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.Check-Container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 450px;
+    box-sizing: border-box;
+}
+
+.Icon-Container {
+    display: flex;
+    align-items: center;
+    min-width: 18px;
+}
